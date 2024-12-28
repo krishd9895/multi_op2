@@ -1,0 +1,14 @@
+certifi
+idna
+py7zr
+pycryptodome
+pyTelegramBotAPI
+requests
+urllib3
+Werkzeug
+zipp
+pillow
+Flask
+PyPDF2
+rarfile
+pymupdf
