@@ -432,7 +432,7 @@ def handle_image(message):
     chat_id = message.chat.id
 
     if chat_id not in user_images:
-        bot.send_message(chat_id, "Please start by typing /image2pdf.")
+        bot.send_message(chat_id, "")
         return
 
     if message.content_type == 'photo':
